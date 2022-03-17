@@ -78,6 +78,16 @@
 
 </td>
 
+<td width="25%" align="center">
+
+<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+
+</td>
+
+</tr>
+
 <tr valign="top">
 
 <td width="25%" align="center">
@@ -87,8 +97,6 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
-  
-</tr>
 
 <td width="25%" align="center">
 
