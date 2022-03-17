@@ -88,7 +88,7 @@
 
 </tr>
 
-<tr valign="top">
+<tr valign="top" style="display:flex;justify-content:space-around;">
 
 <td width="25%" align="center">
 
