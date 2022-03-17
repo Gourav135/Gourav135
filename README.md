@@ -1,6 +1,6 @@
 [![Gourav Sharma , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Gourav%20Sharma%20)](https://gouravsharma.com)
 
-- 🌱 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.
+- 🌱 I am a full-stack developer who is highly passionate to develop web-based products and keen on finding solutions for the same. I have hands-on experience in front-end and back-end technology. I am always ready to learn new technologies.
 
 - 📝 I write articles on [https://medium.com/@gourav989975](https://medium.com/@gourav989975)
 
@@ -75,14 +75,6 @@
 <span>Mongodb</span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
 
 </td>
 
