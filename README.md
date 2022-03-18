@@ -56,7 +56,7 @@
 
 <td width="25%" align="center">
 
-<span>NodeJS</span><br><br>
+  <span><b>NodeJS</b></span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 
