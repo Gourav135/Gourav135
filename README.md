@@ -64,7 +64,7 @@
 
 <td width="25%" align="center">
 
-<span>Express</span><br><br>
+<span><b>Express</b></span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
 
@@ -72,7 +72,7 @@
 
 <td width="25%" align="center">
 
-<span>Mongodb</span><br><br>
+<span><b>MongoDB</b></span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 
@@ -108,7 +108,7 @@
 
 <td width="25%" align="center">
 
-<span>Postman</span><br><br>
+<span><b>Postman</b></span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg">
 
@@ -116,7 +116,7 @@
   
   <td width="25%" align="center">
 
-<span>npm</span><br><br>
+<span><b>npm</b></span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
 
