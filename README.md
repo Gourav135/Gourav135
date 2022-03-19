@@ -88,7 +88,7 @@
 
 </tr>
 
-<tr valign="top" style="display:flex;justify-content:space-around;">
+<!-- <tr valign="top" style="display:flex;justify-content:space-around;">
 
 <td width="25%" align="center">
 
@@ -114,7 +114,7 @@
 
 </td>
   
-  <td width="25%" align="center">
+ <td width="25%" align="center">
 
 <span><b>npm</b></span><br><br>
 
@@ -122,7 +122,7 @@
 
 </td>
 
-</tr>
+</tr> -->
 
 </tbody>
 
