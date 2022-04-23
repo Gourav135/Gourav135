@@ -33,6 +33,14 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
 
 </td>
+  
+<td width="25%" align="center">
+
+<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+
+</td>
 
 <td width="25%" align="center">
 
@@ -40,8 +48,36 @@
 
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
+</td> 
+
+</tr>
+ 
+<td width="25%" align="center">
+
+<span><b>MongoDB</b></span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+
+</td>
+  
+<td width="25%" align="center">
+
+<span><b>Express</b></span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+
 </td>
 
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span><b>NodeJS</b></span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+
+</td>
+  
 <td width="25%" align="center">
 
 <span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
@@ -52,44 +88,16 @@
 
 </tr>
 
-<tr valign="top">
-
-<td width="25%" align="center">
-
-  <span><b>NodeJS</b></span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span><b>Express</b></span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span><b>MongoDB</b></span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-
-</td>
-
-</tr>
-
 <tr valign="top" style="display:flex;justify-content:space-around;">
 
+<td width="25%" align="center">
+
+<span><b>Material UI</b></span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+
+</td>
+  
 <td width="25%" align="center">
 
 <span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
